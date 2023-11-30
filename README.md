@@ -1,1 +1,1 @@
-# Boolean-Algebra-Calculator-
+# Boolean-Algebra-Calculator
